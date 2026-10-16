@@ -1,27 +1,128 @@
-# 💫 About Me:
-🔭 Currently working on: Python Projects<br>👯 Looking to collaborate on: AI/ML Projects<br>🤝 Looking for help with: Machine Learning<br>🌱 Currently learning: Python, ML & Data Science<br>💬 Ask me about: Python, Pandas,Numpy,SQL,Power-BI & AI<br>⚡ Fun fact: I enjoy solving problems with code.
+<!-- Profile README for Prince Singh: save as README.md in the repo github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_rareone_x45) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mr.Prince Singh) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@PRINCE SINGH) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princesingh453393gkp@gmail.com) 
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/hero.svg" width="100%" alt="Prince Singh - animated banner"/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=prince-singh045&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=prince-singh045&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=prince-singh045&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=50&lines=%3E+INITIALIZING+PRINCE.EXE...;%3E+BUILDING+SCALABLE+SYSTEMS;%3E+SHIPPING+CODE+AT+LIGHT+SPEED;%3E+STATUS%3A+ONLINE+%E2%9C%94" alt="typing" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prince-singh045&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=VISITORS&color=00f5ff&style=for-the-badge&labelColor=0d1117" alt="views" />
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&logo=github&color=ff00c8&labelColor=0d1117" alt="followers" /></a>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/YOUR_GITHUB_USERNAME&query=$.public_repos&label=REPOS&style=for-the-badge&logo=github&color=7b2ff7&labelColor=0d1117" alt="repos" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prince-singh045&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
----
-[![](https://komarev.com/ghpvc/?username=prince-singh045&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=2&section=header" width="100%" alt="divider"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ `> whoami`
+
+```bash
+┌──(prince㉿github)-[~]
+└─$ cat profile.json
+{
+  "name":      "Prince Singh",
+  "role":      "Software Engineer",
+  "focus":     ["C++ & DSA", "Web Development", "AI/ML"],
+  "learning":  "[what you're learning now]",
+  "building":  "[your current project]",
+  "open_to":   "Collaborations • Open Source • Cool Ideas",
+  "status":    "🟢 ONLINE"
+}
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=2&section=header" width="100%" alt="divider"/>
+
+## 🧬 `> tech_stack --list`
+
+<div align="center">
+
+<!-- Languages & Web -->
+<img src="https://skillicons.dev/icons?i=py,c,cpp,php,html,css,js,bootstrap,django,apache&perline=10&theme=dark" alt="languages and web" />
+
+<br/>
+
+<!-- Cloud & Databases -->
+<img src="https://skillicons.dev/icons?i=gcp,aws,azure,mysql&perline=4&theme=dark" alt="cloud and databases" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="Microsoft SQL Server" />
+
+<br/><br/>
+
+<!-- Data Science & AI/ML -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="48" alt="Anaconda" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="Scikit-learn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow" />
+
+<br/><br/>
+
+<!-- Design, BI & Version Control -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="48" alt="Adobe Photoshop" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-plain.svg" height="48" alt="Adobe Lightroom" />
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="48" alt="Git and GitHub" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CANVA-0d1117?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=0d1117&color=00C4CC" alt="Canva" />
+<img src="https://img.shields.io/badge/ADOBE-0d1117?style=for-the-badge&logo=adobe&logoColor=FF0000&labelColor=0d1117&color=FF0000" alt="Adobe" />
+<img src="https://img.shields.io/badge/POWER%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=0d1117&color=F2C811" alt="Power BI" />
+
+</div>
+
+<br/>
+
+- 🐍 **Languages:** Python, C, C++, PHP
+- 🌐 **Web:** Bootstrap, Django, Apache
+- ☁️ **Cloud:** Google Cloud, AWS, Azure
+- 🗄️ **Databases:** MySQL, Microsoft SQL Server
+- 🤖 **Data Science & AI/ML:** Anaconda, NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow
+- 📊 **BI & Design:** Power BI, Canva, Adobe, Photoshop, Lightroom
+- 🛠️ **Version Control:** Git & GitHub
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=2&section=header" width="100%" alt="divider"/>
+
+## 📡 `> system_diagnostics`
+
+<div align="center">
+
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&title_color=00f5ff&icon_color=ff00c8&text_color=c9d1d9&bg_color=0d1117&border_color=7b2ff7&rank_icon=github" alt="stats" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&hide_border=false&title_color=00f5ff&text_color=c9d1d9&bg_color=0d1117&border_color=7b2ff7" alt="languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&background=0D1117&ring=FF00C8&fire=00F5FF&currStreakNum=00F5FF&currStreakLabel=FF00C8&sideNums=FFFFFF&sideLabels=C9D1D9&dates=7B2FF7&stroke=7B2FF7&border=7B2FF7" alt="streak" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=2&section=header" width="100%" alt="divider"/>
+
+## 📨 `> establish_connection`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mr-prince-singh-103848354/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0d1117&color=00f5ff" alt="LinkedIn" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=ff00c8&labelColor=0d1117&color=ff00c8" alt="Email" /></a>
+<a href="https://leetcode.com/u/IR6aE1uymO/"><img src="https://img.shields.io/badge/LEETCODE-0d1117?style=for-the-badge&logo=leetcode&logoColor=ffa116&labelColor=0d1117&color=7b2ff7" alt="LeetCode" /></a>
+<a href="https://www.codechef.com/users/prince_xevor45"><img src="https://img.shields.io/badge/CODECHEF-0d1117?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117&color=00f5ff" alt="CodeChef" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1000&color=7B2FF7&center=true&vCenter=true&width=420&lines=%5B+END+OF+TRANSMISSION+%5D;%5B+THANKS+FOR+VISITING+%5D" alt="footer text" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff00c8,50:7b2ff7,100:00f5ff&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
+
+<!--
+SETUP NOTES (safe to delete):
+1. Replace every YOUR_GITHUB_USERNAME with your real GitHub username, and YOUR_EMAIL@gmail.com with your email.
+2. The file must live in a PUBLIC repo named exactly like your username (github.com/USERNAME/USERNAME) as README.md.
+   The banner needs assets/hero.svg in the same repo on the `main` branch.
+3. Enable "Private contributions" in your profile's contribution settings so stats and streak count them.
+4. If a stats card shows an error, the free public github-readme-stats server is rate-limited; refresh later.
+-->
