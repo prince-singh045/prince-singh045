@@ -1,119 +1,27 @@
-<div align="center">
-
-<!-- Optional banner: replace the URL with your own banner when you have one. -->
-
-Hey there, I'm Prince  👋
-🌀 A little chaos, a lot of curiosity.
-CSE (AI & DS) student · Aspiring Data Analysis Engineer · Building in public
-I like turning ideas into code, learning by building, and breaking things just enough to understand how they work.
-<p>
-  <a href="https://github.com/prince-singh045">
-    <img src="https://komarev.com/ghpvc/?username=abhinav-swe&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-  <a href="https://github.com/prince-singh045?tab=followers">
-    <img src="https://img.shields.io/github/followers/prince-singh045?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563eb" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/prince-singh045?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fabhinav-swe&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&logo=github&color=2563eb" alt="Public repositories" />
-  </a>
-</p>
-
-<a href="https://github.com/prince-singh045">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Learning+by+building+%F0%9F%9B%A0%EF%B8%8F;C%2B%2B+%26+problem+solving;Web+development+%7C+AI%2FML;One+commit+at+a+time+%F0%9F%8C%B1" alt="Typing introduction" />
-</a>
-
-</div>
-
-🧭 A little about me
-- 🎓 Studying B.Tech in CSE (AI & DS).
-- 💻 Exploring software engineering, problem-solving, and AI/DS.
-- 🌱 Currently learning C++ & DSA, HTML, CSS, JavaScript, Python, Numpy, Pandas, Power-BI, and Git/GitHub.
-- 🧪 I learn best by building small projects, experimenting, and improving them.
-- 🎯 Long-term goal: become a strong software engineer and build things that are genuinely useful.
-Creating, breaking, learning, repeating. The progress is the point. 🌙
-
-🛠️ What I'm learning
-<div align="center">
-
-Area	Current focus
-💻 Programming	C++, Python
-🧠 Problem solving	Data Structures & Algorithms
-🌐 Web	HTML, CSS, JavaScript
-🤖 AI / ML	Python foundations and core concepts
-🔧 Tools	Git, GitHub, VS Code
+# 💫 About Me:
+🔭 Currently working on: Python Projects<br><br><br><br>👯 Looking to collaborate on: AI/ML Projects<br><br><br><br>🤝 Looking for help with: Machine Learning<br><br><br><br>🌱 Currently learning: Python, ML & Data Science<br><br><br><br>💬 Ask me about: Python, Pandas,Numpy,SQL,Power-BI & AI<br><br><br><br>⚡ Fun fact: I enjoy solving problems with code.
 
 
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_rareone_x45) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mr.Prince Singh) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@PRINCE SINGH) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princesingh453393gkp@gmail.com) 
 
-📊 GitHub at a glance
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=prince-singh045&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6" alt="GitHub statistics" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-singh045&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=3B82F6" alt="Most used languages" />
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=prince-singh045&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=prince-singh045&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=prince-singh045&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=prince-singh045&hide_border=true&theme=transparent&ring=3B82F6&fire=F97316&currStreakLabel=3B82F6" alt="GitHub contribution streak" />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=prince-singh045&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<sub>Stats are generated by third-party services and may occasionally be delayed or unavailable. Language cards reflect repository code, not skill level.</sub>
-📈 Contribution activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prince-singh045&bg_color=00000000&color=3B82F6&line=3B82F6&point=F97316&area=true&area_color=3B82F6&hide_border=true" alt="Contribution activity graph" width="100%" />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🚀 Featured projects
-<!-- Keep these links pointed at real repositories. Replace or add projects as your portfolio grows. -->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=prince-singh045&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🧮 Workspace & Mini Projects</h3>
-      <p>A growing collection of practice builds, experiments, and projects as I level up my development skills.</p>
-      <p><a href="https://github.com/prince-singh045/workspace">View workspace ↗</a> · <a href="https://github.com/prince-singh045/workspace/tree/main/01_Mini_Projects/Calculator">Open calculator project ↗</a></p>
-    </td>
-    <td width="50%">
-      <h3>🌐 Web Development</h3>
-      <p>Small projects built while learning the fundamentals of HTML, CSS, and JavaScript.</p>
-      <p><a href="https://github.com/prince-singh045?tab=repositories">Explore repositories ↗</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⚙️ C++ & Problem Solving</h3>
-      <p>Programming exercises and experiments focused on strengthening logic and problem-solving.</p>
-      <p><a href="https://github.com/prince-singh045?tab=repositories&q=C%2B%2B">Explore C++ work ↗</a></p>
-    </td>
-    <td width="50%">
-      <h3>🤖 AI / ML Learning</h3>
-      <p>A space for Python practice and future machine-learning experiments as I learn the foundations.</p>
-      <p><a href="https://github.com/prince-singh045?tab=repositories">Explore repositories ↗</a></p>
-    </td>
-  </tr>
-</table>
+---
+[![](https://komarev.com/ghpvc/?username=prince-singh045&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🧰 Languages & tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode&theme=light" alt="C++, Python, HTML, CSS, JavaScript, Git, GitHub, and VS Code" />
-</div>
-
-🤝 Find me around the internet
-<div align="center">
-  <a href="https://www.linkedin.com/in/mr-prince-singh-103848354/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.codechef.com/users/prince_xevor45">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://leetcode.com/u/IR6aE1uymO/">
-    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://github.com/prince-singh045">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-<div align="center">
-
-🌱 Still learning. Still building. Still curious.
-Thanks for stopping by — have a good one! ✨
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
