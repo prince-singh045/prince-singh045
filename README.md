@@ -23,7 +23,6 @@
 
 ```bash
 ┌──(prince㉿github)-[~]
-└─$ cat profile.json
 {
   "name":      "Prince Singh",
   "role":      "Software Engineer",
