@@ -1,19 +1,19 @@
-<!-- Profile README for Prince Singh: save as README.md in the repo github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME -->
+<!-- Profile README for Prince Singh: save as README.md in the repo github.com/prince-singh045/prince-singh045 -->
 <!-- Files needed in the same repo (main branch): assets/hero.svg and assets/lightroom.svg -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/hero.svg" width="100%" alt="Prince Singh - Software Engineer"/>
+<img src="https://raw.githubusercontent.com/prince-singh045/prince-singh045/main/assets/hero.svg" width="100%" alt="Prince Singh - Data Analysis Engineer"/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/prince-singh045">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=50&lines=%3E+INITIALIZING+PRINCE.EXE...;%3E+BUILDING+SCALABLE+SYSTEMS;%3E+SHIPPING+CODE+AT+LIGHT+SPEED;%3E+STATUS%3A+ONLINE+%E2%9C%94" alt="typing" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=VISITORS&color=00f5ff&style=for-the-badge&labelColor=0d1117" alt="views" />
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&logo=github&color=ff00c8&labelColor=0d1117" alt="followers" /></a>
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/YOUR_GITHUB_USERNAME&query=$.public_repos&label=REPOS&style=for-the-badge&logo=github&color=7b2ff7&labelColor=0d1117" alt="repos" />
+<img src="https://komarev.com/ghpvc/?username=prince-singh045&label=VISITORS&color=00f5ff&style=for-the-badge&labelColor=0d1117" alt="views" />
+<a href="https://github.com/prince-singh045?tab=followers"><img src="https://img.shields.io/github/followers/prince-singh045?label=FOLLOWERS&style=for-the-badge&logo=github&color=ff00c8&labelColor=0d1117" alt="followers" /></a>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fprince-singh045&query=%24.public_repos&label=REPOS&style=for-the-badge&logo=github&color=7b2ff7&labelColor=0d1117" alt="repos" />
 
 </div>
 
@@ -64,7 +64,7 @@
 
 <!-- Design & Version Control -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="48" alt="Adobe Photoshop" />
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/lightroom.svg" height="48" alt="Adobe Lightroom" />
+<img src="https://raw.githubusercontent.com/prince-singh045/prince-singh045/main/assets/lightroom.svg" height="48" alt="Adobe Lightroom" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="Canva" />
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="48" alt="Git and GitHub" />
 
@@ -106,7 +106,7 @@
 
 <!--
 SETUP NOTES (safe to delete):
-1. Replace every YOUR_GITHUB_USERNAME with your real GitHub username, and YOUR_EMAIL@gmail.com with your email.
+1. Replace YOUR_EMAIL@gmail.com with your email.
 2. The file must live in a PUBLIC repo named exactly like your username (github.com/USERNAME/USERNAME) as README.md.
    Upload assets/hero.svg and assets/lightroom.svg to the same repo on the `main` branch.
 -->
