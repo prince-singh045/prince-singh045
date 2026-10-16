@@ -1,8 +1,9 @@
 <!-- Profile README for Prince Singh: save as README.md in the repo github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME -->
+<!-- Files needed in the same repo (main branch): assets/hero.svg and assets/lightroom.svg -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/hero.svg" width="100%" alt="Prince Singh - animated banner"/>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/hero.svg" width="100%" alt="Prince Singh - Software Engineer"/>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=50&lines=%3E+INITIALIZING+PRINCE.EXE...;%3E+BUILDING+SCALABLE+SYSTEMS;%3E+SHIPPING+CODE+AT+LIGHT+SPEED;%3E+STATUS%3A+ONLINE+%E2%9C%94" alt="typing" />
@@ -47,7 +48,7 @@
 
 <!-- Cloud & Databases -->
 <img src="https://skillicons.dev/icons?i=gcp,aws,azure,mysql&perline=4&theme=dark" alt="cloud and databases" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="Microsoft SQL Server" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="Microsoft SQL Server" />
 
 <br/><br/>
 
@@ -61,14 +62,14 @@
 
 <br/><br/>
 
-<!-- Design, BI & Version Control -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="48" alt="Adobe Photoshop" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-plain.svg" height="48" alt="Adobe Lightroom" />
+<!-- Design & Version Control -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="48" alt="Adobe Photoshop" />
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/lightroom.svg" height="48" alt="Adobe Lightroom" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="Canva" />
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="48" alt="Git and GitHub" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CANVA-0d1117?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=0d1117&color=00C4CC" alt="Canva" />
 <img src="https://img.shields.io/badge/ADOBE-0d1117?style=for-the-badge&logo=adobe&logoColor=FF0000&labelColor=0d1117&color=FF0000" alt="Adobe" />
 <img src="https://img.shields.io/badge/POWER%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=0d1117&color=F2C811" alt="Power BI" />
 
@@ -83,21 +84,6 @@
 - 🤖 **Data Science & AI/ML:** Anaconda, NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow
 - 📊 **BI & Design:** Power BI, Canva, Adobe, Photoshop, Lightroom
 - 🛠️ **Version Control:** Git & GitHub
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=2&section=header" width="100%" alt="divider"/>
-
-## 📡 `> system_diagnostics`
-
-<div align="center">
-
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&title_color=00f5ff&icon_color=ff00c8&text_color=c9d1d9&bg_color=0d1117&border_color=7b2ff7&rank_icon=github" alt="stats" />
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&hide_border=false&title_color=00f5ff&text_color=c9d1d9&bg_color=0d1117&border_color=7b2ff7" alt="languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&background=0D1117&ring=FF00C8&fire=00F5FF&currStreakNum=00F5FF&currStreakLabel=FF00C8&sideNums=FFFFFF&sideLabels=C9D1D9&dates=7B2FF7&stroke=7B2FF7&border=7B2FF7" alt="streak" />
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=2&section=header" width="100%" alt="divider"/>
 
@@ -122,7 +108,5 @@
 SETUP NOTES (safe to delete):
 1. Replace every YOUR_GITHUB_USERNAME with your real GitHub username, and YOUR_EMAIL@gmail.com with your email.
 2. The file must live in a PUBLIC repo named exactly like your username (github.com/USERNAME/USERNAME) as README.md.
-   The banner needs assets/hero.svg in the same repo on the `main` branch.
-3. Enable "Private contributions" in your profile's contribution settings so stats and streak count them.
-4. If a stats card shows an error, the free public github-readme-stats server is rate-limited; refresh later.
+   Upload assets/hero.svg and assets/lightroom.svg to the same repo on the `main` branch.
 -->
