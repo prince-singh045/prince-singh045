@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on: Python Projects<br><br><br><br>👯 Looking to collaborate on: AI/ML Projects<br><br><br><br>🤝 Looking for help with: Machine Learning<br><br><br><br>🌱 Currently learning: Python, ML & Data Science<br><br><br><br>💬 Ask me about: Python, Pandas,Numpy,SQL,Power-BI & AI<br><br><br><br>⚡ Fun fact: I enjoy solving problems with code.
+🔭 Currently working on: Python Projects<br>👯 Looking to collaborate on: AI/ML Projects<br>🤝 Looking for help with: Machine Learning<br>🌱 Currently learning: Python, ML & Data Science<br>💬 Ask me about: Python, Pandas,Numpy,SQL,Power-BI & AI<br>⚡ Fun fact: I enjoy solving problems with code.
 
 
 ## 🌐 Socials:
